@@ -1,13 +1,11 @@
 # ⛩️ About Me :
 My name is Filipe, I'm Brazilian 🇧🇷  and I've dedicated over 15 years of my life as a professional esports athlete. 
-My relentless pursuit of excellence extends beyond the gaming world, as I'm driven to continually refine both my professional and personal selves.
-With a deep admiration for Japanese values and culture, I strive to embody their commitment to discipline and innovation.
 My daily mission is to evolve into a distinguished front-end professional, and I channel my passion into mastering JavaScript and React.<br>
 
 
 🎐 <a href="https://filipe-portfolio-five.vercel.app/" target="_blank"> Portfolio - Click me </a> <br>
-🥷 Solid skills with HTML/CSS/JS </br>
-🍵 I’m currently learning React/NextJS<br>
+🥷 Solid skills with ReactJS </br>
+🍵 I’m currently learning NextJS /NODEJS <br>
 🏯 Student of System Analysis and Development at Infnet.<br>
 🌸 Graduated at Rocketseat Explorer & Ignite program <br>
 
