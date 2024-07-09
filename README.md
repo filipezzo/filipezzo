@@ -1,5 +1,5 @@
 # ⛩️ About Me :
- Filipe, Brazilian 🇧🇷, retired professional esports athlete. 
+ Filipe - Brazilian 🇧🇷 - retired professional esports athlete. <br>
 My daily mission is to evolve into a distinguished front-end professional, and I channel my passion into mastering JavaScript and React.<br>
 
 
