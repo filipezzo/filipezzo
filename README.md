@@ -1,7 +1,5 @@
 # ⛩️ About Me :
  Filipe - Brazilian 🇧🇷 - retired professional esports athlete. <br>
-My daily mission is to evolve into a distinguished front-end professional, and I channel my passion into mastering JavaScript and React.<br>
-
 
 🎐 <a href="https://filipe-portfolio-five.vercel.app/" target="_blank"> Portfolio - Click me </a> <br>
 🥷 Solid skills with ReactJS </br>
