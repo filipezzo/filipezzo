@@ -5,7 +5,7 @@ My daily mission is to evolve into a distinguished front-end professional, and I
 
 🎐 <a href="https://filipe-portfolio-five.vercel.app/" target="_blank"> Portfolio - Click me </a> <br>
 🥷 Solid skills with ReactJS </br>
-🍵 I’m currently learning NextJS /NodeJS <br>
+🍵 I’m currently learning NextJS && Docker && Node <br>
 🏯 Student of System Analysis and Development at Infnet.<br>
 🌸 Graduated at Rocketseat Explorer & Ignite program <br>
 
