@@ -2,9 +2,9 @@
  Filipe - Brazilian 🇧🇷 - retired professional esports athlete. <br>
 
 🎐 <a href="https://minimalist-plum.vercel.app/" target="_blank"> Portfolio - Click me </a> <br>
-🥷 Solid skills with ReactJS </br>
+🥷 Solid skills with Javascript and C  </br>
 🏯 Student of System Analysis and Development at Infnet.<br>
-🌸 Graduated at Rocketseat Explorer & Ignite program <br>
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/filipezzo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiavanzzo/) 
 
