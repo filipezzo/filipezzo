@@ -1,4 +1,4 @@
-Front-end Developer· 🇧🇷 São Paulo, Brazil · Cadet at 42 São Paulo
+Front-end Engineer· Working at BTG Pactual. Cadet at 42 São Paulo
 
 🏯 Graduated in Systems Analysis and Development (INFNET) \
 🥷 Strong experience with JavaScript, TypeScript, React, and solid exposure to C/C++ through 42.
